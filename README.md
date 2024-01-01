@@ -96,8 +96,6 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </div>
 </body>
 </html>
-
-
 ```
 ### views.py
 ```
